@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 API_KEY=$1
 API_SECRET=$2
