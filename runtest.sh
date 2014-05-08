@@ -39,3 +39,4 @@ echo "python -m appurify.client --api-key $API_KEY --api-secret $API_SECRET --ap
 
 python -m appurify.client --api-key $API_KEY --api-secret $API_SECRET  --app-src $TEST_APP --test-src $TEST_SCRIPT  --test-type $TEST_TYPE --device-type-id $DEVICE_TYPE_ID  --config-src $CONFIG_FILE
 
+exit 0
