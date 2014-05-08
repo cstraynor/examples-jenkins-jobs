@@ -24,9 +24,12 @@ fi
 
 echo '**> TEST'
 echo '**> Activating environment..'
+
+pwd
 source .env/bin/activate
 pip install requests
 pip install httplib2
+
 
 ### do the tests
 
